@@ -14,3 +14,5 @@ Repository-ga aan ku barto **Git** iyo **GitHub** — Humbaawe Institute.
 ```bash
 git clone https://github.com/ahmedyakub/humbaawe-github-practice.git
 ```
+
+Cali ayaa ku daray sadarkan.
