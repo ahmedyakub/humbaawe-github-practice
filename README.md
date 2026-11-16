@@ -1,4 +1,4 @@
-# humbaawe-github-practice
+# Mashruuca Fasalka — Humbaawe
 
 Repository-ga aan ku barto **Git** iyo **GitHub** — Humbaawe Institute.
 
