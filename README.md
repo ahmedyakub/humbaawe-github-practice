@@ -1,4 +1,4 @@
-# humbaawe-github-practice
+# Website-ka Fasalka Web
 
 Repository-ga aan ku barto **Git** iyo **GitHub** — Humbaawe Institute.
 
