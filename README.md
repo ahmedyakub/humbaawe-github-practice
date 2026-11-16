@@ -16,3 +16,5 @@ git clone https://github.com/ahmedyakub/humbaawe-github-practice.git
 ```
 
 Cali ayaa ku daray sadarkan.
+
+Kooxda: Hodan, Cali, Faadumo.
